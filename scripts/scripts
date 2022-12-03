@@ -1,0 +1,8 @@
+### Scripts
+En esta carpeta se almacenan los scripts de Python utilizados para:
+* Extracción de datos históricos de la base de datos transaccional, para análisis y modelamiento.
+* Extracción de registros nuevos para predicción
+* Limpieza y preparación de datos (Textos)
+* Análisis exploratorio de datos (EDA)
+* Entrenamiento de modelos supervisados y no supervisados
+* Despliegue (Ejecución) de modelo supervisado
