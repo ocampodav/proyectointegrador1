@@ -18,4 +18,3 @@
 
 En este repositorio se encuentran los códigos fuente (scripts de Python) y datos requeridos para la ejecución del Proyecto Integrador.
 
-![My Image](colab.jpg)
