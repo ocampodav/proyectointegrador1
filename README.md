@@ -27,7 +27,7 @@ Para correr este proyecto en Google Colab, realice el siguiente procedimiento:
 ![colab](https://user-images.githubusercontent.com/70821787/205749783-84abe7a3-48e3-416d-85b9-62bb8d06412e.png)
 
 3. Descargue los archivos .ipynb que se encuentran en la carpeta "scripts".
-4. Ejecute los scripts en el orden que indica su nombre, así:
+4. Descargue y ejecute los scripts en el orden que indica su nombre, así:
    
    Previamente habilite la linea (borrando el # que la "comenta") justo debajo del texto "#Habilitar la siguiente línea para correr el proyecto de manera local")
    
