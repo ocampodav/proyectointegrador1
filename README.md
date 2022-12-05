@@ -1,5 +1,5 @@
 # Proyecto Integrador 1. 
-# Análisis de condición de activos en redes de distribución a partir de registros de trabajo de mantenimiento
+## Análisis de condición de activos en redes de distribución a partir de registros de trabajo de mantenimiento
 
 ### **Grupo 6**  
 #### *Diana Arango Cañas*
