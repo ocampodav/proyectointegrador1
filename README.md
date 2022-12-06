@@ -18,7 +18,7 @@
 ======================================================================
 
 En este repositorio se encuentran los códigos fuente (scripts de Python) y datos requeridos para la ejecución del Proyecto Integrador.
-\
+
 
 Para correr este proyecto en Google Colab, realice el siguiente procedimiento:
 
@@ -44,4 +44,7 @@ Para correr este proyecto en Google Colab, realice el siguiente procedimiento:
    
 Algunos de los scripts generan sus propios archivos de salida, sin embargo se han cargado en este repositorio todos los sets de datos necesarios para correr el proyecto de principio a fin.
 
-
+=================================================================
+\
+Para visitar la interfaz de usuario creada para la visualización de los resultados de este proyecto haga click en el siguiente vínculo:
+https://app.powerbi.com/view?r=eyJrIjoiMWYwZWMzOWYtODhlMi00N2I1LTkyODctNDJjYTk2YzUwNmE3IiwidCI6ImE1ZWM2NTIzLWQ1MmQtNDQzZC1iZWJjLWVlY2YxM2FhZTdhYyJ9&pageName=ReportSectione1b385410ad50a5bd069
