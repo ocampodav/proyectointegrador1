@@ -47,4 +47,4 @@ Algunos de los scripts generan sus propios archivos de salida, sin embargo se ha
 =================================================================
 \
 Para visitar la interfaz de usuario creada para la visualización de los resultados de este proyecto haga click en el siguiente vínculo:
-https://app.powerbi.com/view?r=eyJrIjoiMWYwZWMzOWYtODhlMi00N2I1LTkyODctNDJjYTk2YzUwNmE3IiwidCI6ImE1ZWM2NTIzLWQ1MmQtNDQzZC1iZWJjLWVlY2YxM2FhZTdhYyJ9&pageName=ReportSectione1b385410ad50a5bd069
+https://app.powerbi.com/view?r=eyJrIjoiMDA2ODc4NzEtNjg2OS00ZWVjLTlmNGQtNmM5MDBlNmQyMDZhIiwidCI6Ijk5ZjdiNTVlLTljYmUtNDY3Yi04MTQzLTkxOTc4MjkxOGFmYiIsImMiOjR9
